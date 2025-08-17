@@ -13,10 +13,10 @@
     .container { max-width:900px; margin:20px auto; padding:0 20px; }
     .club-image { text-align:center; margin:20px 0; }
     .club-image img { max-width:100%; border-radius:10px; }
-    section { background:#fff; padding:15px 20px; margin-bottom:20px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1); }
+    section { background:#4169E1; padding:15px 20px; margin-bottom:20px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1); }
     section h2 { color:#6a0dad; margin-top:0; }
     .actus-item, .match-item { margin-bottom:15px; }
-    .partenaires a { display:inline-block; background:#6a0dad; color:#fff; padding:5px 10px; margin:5px; text-decoration:none; border-radius:5px; }
+    .partenaires a { display:inline-block; background:##32CD32; color:#fff; padding:5px 10px; margin:5px; text-decoration:none; border-radius:5px; }
   </style>
 </head>
 <body>
